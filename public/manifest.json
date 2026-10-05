@@ -1,0 +1,21 @@
+{
+  "id": "/",
+  "name": "Aura Messenger",
+  "short_name": "Aura",
+  "description": "Next-generation Android messaging and social communication with stories, real-time encrypted chat, and HD voice & video calls.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090d16",
+  "theme_color": "#4f46e5",
+  "categories": ["social", "communication", "chat"],
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

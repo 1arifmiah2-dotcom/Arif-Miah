@@ -1,0 +1,11 @@
+{
+  "name": "free messenger ",
+  "description": "A modern, privacy-first Android social messaging application featuring real-time encrypted chat, HD voice \u0026 video calling, 24h stories, status notes, and media sharing.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
